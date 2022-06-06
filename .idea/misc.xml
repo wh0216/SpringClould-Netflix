@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/34-springcloud-service-auth/pom.xml" />
+        <option value="$PROJECT_DIR$/34-springcloud-service-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/34-springcloud-service-config/pom.xml" />
+        <option value="$PROJECT_DIR$/34-springcloud-service-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/34-springcloud-service-orders/pom.xml" />
+        <option value="$PROJECT_DIR$/34-springcloud-service-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/34-springcloud-service-zipkin/pom.xml" />
+        <option value="$PROJECT_DIR$/34-springcloud-service-commons/pom.xml" />
+        <option value="$PROJECT_DIR$/34-springcloud-service-turbine/pom.xml" />
+        <option value="$PROJECT_DIR$/34-springcloud-service-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/34-springcloud-service-goods-9100/pom.xml" />
+        <option value="$PROJECT_DIR$/34-springcloud-service-goods-9200/pom.xml" />
+        <option value="$PROJECT_DIR$/34-springcloud-service-portal-8080/pom.xml" />
+        <option value="$PROJECT_DIR$/34-springcloud-service-portal-8081/pom.xml" />
+        <option value="$PROJECT_DIR$/34-springcloud-service-stream-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/34-springcloud-service-stream-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/34-springcloud-service-stream-consumer2/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

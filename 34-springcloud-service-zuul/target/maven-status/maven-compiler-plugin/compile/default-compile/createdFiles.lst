@@ -1,0 +1,5 @@
+com\bjpowernode\springcloud\fallback\ZuulFallback$1.class
+com\bjpowernode\springcloud\filter\ErrorFilter.class
+com\bjpowernode\springcloud\filter\LogFilter.class
+com\bjpowernode\springcloud\fallback\ZuulFallback.class
+com\bjpowernode\springcloud\ZuulApplication.class

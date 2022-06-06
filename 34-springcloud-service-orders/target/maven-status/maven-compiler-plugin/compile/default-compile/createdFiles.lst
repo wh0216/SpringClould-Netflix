@@ -1,0 +1,5 @@
+com\bjpowernode\springcloud\OrdersApplication8100.class
+com\bjpowernode\springcloud\service\impl\OrdersServiceImpl.class
+com\bjpowernode\springcloud\service\OrdersService.class
+com\bjpowernode\springcloud\controller\OrdersController.class
+com\bjpowernode\springcloud\mapper\OrdersMapper.class

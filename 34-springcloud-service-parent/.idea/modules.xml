@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../34-springcloud-service-auth/34-springcloud-service-auth.iml" filepath="$PROJECT_DIR$/../34-springcloud-service-auth/34-springcloud-service-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../34-springcloud-service-commons/34-springcloud-service-commons.iml" filepath="$PROJECT_DIR$/../34-springcloud-service-commons/34-springcloud-service-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../34-springcloud-service-config/34-springcloud-service-config.iml" filepath="$PROJECT_DIR$/../34-springcloud-service-config/34-springcloud-service-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../34-springcloud-service-dashboard/34-springcloud-service-dashboard.iml" filepath="$PROJECT_DIR$/../34-springcloud-service-dashboard/34-springcloud-service-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../34-springcloud-service-eureka/34-springcloud-service-eureka.iml" filepath="$PROJECT_DIR$/../34-springcloud-service-eureka/34-springcloud-service-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../34-springcloud-service-goods-9100/34-springcloud-service-goods-9100.iml" filepath="$PROJECT_DIR$/../34-springcloud-service-goods-9100/34-springcloud-service-goods-9100.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../34-springcloud-service-goods-9200/34-springcloud-service-goods-9200.iml" filepath="$PROJECT_DIR$/../34-springcloud-service-goods-9200/34-springcloud-service-goods-9200.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../34-springcloud-service-orders/34-springcloud-service-orders.iml" filepath="$PROJECT_DIR$/../34-springcloud-service-orders/34-springcloud-service-orders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/34-springcloud-service-parent.iml" filepath="$PROJECT_DIR$/34-springcloud-service-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../34-springcloud-service-portal-8080/34-springcloud-service-portal-8080.iml" filepath="$PROJECT_DIR$/../34-springcloud-service-portal-8080/34-springcloud-service-portal-8080.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../34-springcloud-service-portal-8081/34-springcloud-service-portal-8081.iml" filepath="$PROJECT_DIR$/../34-springcloud-service-portal-8081/34-springcloud-service-portal-8081.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../34-springcloud-service-stream-consumer/34-springcloud-service-stream-consumer.iml" filepath="$PROJECT_DIR$/../34-springcloud-service-stream-consumer/34-springcloud-service-stream-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../34-springcloud-service-stream-consumer2/34-springcloud-service-stream-consumer2.iml" filepath="$PROJECT_DIR$/../34-springcloud-service-stream-consumer2/34-springcloud-service-stream-consumer2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../34-springcloud-service-stream-producer/34-springcloud-service-stream-producer.iml" filepath="$PROJECT_DIR$/../34-springcloud-service-stream-producer/34-springcloud-service-stream-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../34-springcloud-service-turbine/34-springcloud-service-turbine.iml" filepath="$PROJECT_DIR$/../34-springcloud-service-turbine/34-springcloud-service-turbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../34-springcloud-service-zipkin/34-springcloud-service-zipkin.iml" filepath="$PROJECT_DIR$/../34-springcloud-service-zipkin/34-springcloud-service-zipkin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../34-springcloud-service-zuul/34-springcloud-service-zuul.iml" filepath="$PROJECT_DIR$/../34-springcloud-service-zuul/34-springcloud-service-zuul.iml" />
+    </modules>
+  </component>
+</project>

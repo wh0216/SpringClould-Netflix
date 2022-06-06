@@ -1,0 +1,12 @@
+D:\dev\ideaIU\zJGSProjects\34-springcloud-service-commons\src\main\java\com\bjpowernode\springcloud\model\Users.java
+D:\dev\ideaIU\zJGSProjects\34-springcloud-service-commons\src\main\java\com\bjpowernode\springcloud\service\GoodsRemoteClient.java
+D:\dev\ideaIU\zJGSProjects\34-springcloud-service-commons\src\main\java\com\bjpowernode\springcloud\model\Goods.java
+D:\dev\ideaIU\zJGSProjects\34-springcloud-service-commons\src\main\java\com\bjpowernode\springcloud\constants\Constant.java
+D:\dev\ideaIU\zJGSProjects\34-springcloud-service-commons\src\main\java\com\bjpowernode\springcloud\service\OrdersRemoteClientFallBack.java
+D:\dev\ideaIU\zJGSProjects\34-springcloud-service-commons\src\main\java\com\bjpowernode\springcloud\config\FeignConfiguration.java
+D:\dev\ideaIU\zJGSProjects\34-springcloud-service-commons\src\main\java\com\bjpowernode\springcloud\model\ResultObject.java
+D:\dev\ideaIU\zJGSProjects\34-springcloud-service-commons\src\main\java\com\bjpowernode\springcloud\service\OrdersRemoteClientFallBackFactory.java
+D:\dev\ideaIU\zJGSProjects\34-springcloud-service-commons\src\main\java\com\bjpowernode\springcloud\service\GoodsRemoteClientFallBackFactory.java
+D:\dev\ideaIU\zJGSProjects\34-springcloud-service-commons\src\main\java\com\bjpowernode\springcloud\service\GoodsRemoteClientFallBack.java
+D:\dev\ideaIU\zJGSProjects\34-springcloud-service-commons\src\main\java\com\bjpowernode\springcloud\model\Orders.java
+D:\dev\ideaIU\zJGSProjects\34-springcloud-service-commons\src\main\java\com\bjpowernode\springcloud\service\OrdersRemoteClient.java

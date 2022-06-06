@@ -1,0 +1,14 @@
+com\bjpowernode\springcloud\service\OrdersRemoteClient.class
+com\bjpowernode\springcloud\service\OrdersRemoteClientFallBack.class
+com\bjpowernode\springcloud\model\ResultObject.class
+com\bjpowernode\springcloud\constants\Constant.class
+com\bjpowernode\springcloud\model\Orders.class
+com\bjpowernode\springcloud\service\GoodsRemoteClientFallBack.class
+com\bjpowernode\springcloud\model\Users.class
+com\bjpowernode\springcloud\model\Goods.class
+com\bjpowernode\springcloud\service\GoodsRemoteClientFallBackFactory$1.class
+com\bjpowernode\springcloud\service\OrdersRemoteClientFallBackFactory$1.class
+com\bjpowernode\springcloud\service\OrdersRemoteClientFallBackFactory.class
+com\bjpowernode\springcloud\service\GoodsRemoteClientFallBackFactory.class
+com\bjpowernode\springcloud\config\FeignConfiguration.class
+com\bjpowernode\springcloud\service\GoodsRemoteClient.class

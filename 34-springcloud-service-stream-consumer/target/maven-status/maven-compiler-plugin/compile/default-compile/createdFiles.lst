@@ -1,0 +1,3 @@
+com\bjpowernode\springcloud\message\MessageSink.class
+com\bjpowernode\springcloud\message\MessageReceiver.class
+com\bjpowernode\springcloud\StreamApplication.class

@@ -1,0 +1,4 @@
+com\bjpowernode\springcloud\service\MessageService.class
+com\bjpowernode\springcloud\message\MessageSource.class
+com\bjpowernode\springcloud\message\MessageSender.class
+com\bjpowernode\springcloud\StreamApplication.class

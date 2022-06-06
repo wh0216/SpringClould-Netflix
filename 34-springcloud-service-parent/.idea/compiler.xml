@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="34-springcloud-service-goods-9100" />
+        <module name="34-springcloud-service-goods-9200" />
+        <module name="34-springcloud-service-stream-consumer" />
+        <module name="34-springcloud-service-stream-consumer2" />
+        <module name="34-springcloud-service-config" />
+        <module name="34-springcloud-service-portal-8081" />
+        <module name="34-springcloud-service-zipkin" />
+        <module name="34-springcloud-service-auth" />
+        <module name="34-springcloud-service-portal-8080" />
+        <module name="34-springcloud-service-turbine" />
+        <module name="34-springcloud-service-zuul" />
+        <module name="34-springcloud-service-stream-producer" />
+        <module name="34-springcloud-service-dashboard" />
+        <module name="34-springcloud-service-eureka" />
+        <module name="34-springcloud-service-orders" />
+        <module name="34-springcloud-service-commons" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="34-springcloud-service-auth" target="1.8" />
+      <module name="34-springcloud-service-commons" target="1.8" />
+      <module name="34-springcloud-service-config" target="1.8" />
+      <module name="34-springcloud-service-dashboard" target="1.8" />
+      <module name="34-springcloud-service-eureka" target="1.8" />
+      <module name="34-springcloud-service-goods-9100" target="1.8" />
+      <module name="34-springcloud-service-goods-9200" target="1.8" />
+      <module name="34-springcloud-service-orders" target="1.8" />
+      <module name="34-springcloud-service-parent" target="1.8" />
+      <module name="34-springcloud-service-portal-8080" target="1.8" />
+      <module name="34-springcloud-service-portal-8081" target="1.8" />
+      <module name="34-springcloud-service-stream-consumer" target="1.8" />
+      <module name="34-springcloud-service-stream-consumer2" target="1.8" />
+      <module name="34-springcloud-service-stream-producer" target="1.8" />
+      <module name="34-springcloud-service-turbine" target="1.8" />
+      <module name="34-springcloud-service-zipkin" target="1.8" />
+      <module name="34-springcloud-service-zuul" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="34-springcloud-service-auth" options="-parameters" />
+      <module name="34-springcloud-service-commons" options="-parameters" />
+      <module name="34-springcloud-service-config" options="-parameters" />
+      <module name="34-springcloud-service-dashboard" options="-parameters" />
+      <module name="34-springcloud-service-eureka" options="-parameters" />
+      <module name="34-springcloud-service-goods-9100" options="-parameters" />
+      <module name="34-springcloud-service-goods-9200" options="-parameters" />
+      <module name="34-springcloud-service-orders" options="-parameters" />
+      <module name="34-springcloud-service-portal-8080" options="-parameters" />
+      <module name="34-springcloud-service-portal-8081" options="-parameters" />
+      <module name="34-springcloud-service-stream-consumer" options="-parameters" />
+      <module name="34-springcloud-service-stream-consumer2" options="-parameters" />
+      <module name="34-springcloud-service-stream-producer" options="-parameters" />
+      <module name="34-springcloud-service-turbine" options="-parameters" />
+      <module name="34-springcloud-service-zipkin" options="-parameters" />
+      <module name="34-springcloud-service-zuul" options="-parameters" />
+    </option>
+  </component>
+</project>
